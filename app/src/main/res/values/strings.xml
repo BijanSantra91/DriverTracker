@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DriverTracker</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="camera_n_take_image_for_confirmation">Camera \n [Take image for confirmation]</string>
+</resources>
